@@ -4,16 +4,16 @@
     "icons": [
       {
         "src": "favicon.ico",
-        "sizes": "http://netmusk.com/images/Favicon/favicon.png",
+        "sizes": "48x48",
         "type": "image/x-icon"
       },
       {
-        "src": "http://netmusk.com/images/Favicon/favicon.png",
+        "src": "logo-192.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "http://netmusk.com/images/Favicon/favicon.png",
+        "src": "logo-512.png",
         "type": "image/png",
         "sizes": "512x512"
       }

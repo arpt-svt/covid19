@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://arpt-svt.github.io/covid19/precache-manifest.97d733b36c041e14003b799d8da078ab.js"
+  "https://arpt-svt.github.io/covid19/precache-manifest.d0ac5ee53f4a6b443fc221029a5750a6.js"
 );
 
 self.addEventListener('message', (event) => {
