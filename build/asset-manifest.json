@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/arpt-svt/covid19/master/docs/static/css/main.c7d54e86.chunk.css",
+    "main.js": "/arpt-svt/covid19/master/docs/static/js/main.0f65196f.chunk.js",
+    "main.js.map": "/arpt-svt/covid19/master/docs/static/js/main.0f65196f.chunk.js.map",
+    "runtime-main.js": "/arpt-svt/covid19/master/docs/static/js/runtime-main.57e2bb12.js",
+    "runtime-main.js.map": "/arpt-svt/covid19/master/docs/static/js/runtime-main.57e2bb12.js.map",
+    "static/js/2.27c5f482.chunk.js": "/arpt-svt/covid19/master/docs/static/js/2.27c5f482.chunk.js",
+    "static/js/2.27c5f482.chunk.js.map": "/arpt-svt/covid19/master/docs/static/js/2.27c5f482.chunk.js.map",
+    "index.html": "/arpt-svt/covid19/master/docs/index.html",
+    "precache-manifest.26195de2726d5e2ba7c56c85635160bb.js": "/arpt-svt/covid19/master/docs/precache-manifest.26195de2726d5e2ba7c56c85635160bb.js",
+    "service-worker.js": "/arpt-svt/covid19/master/docs/service-worker.js",
+    "static/css/main.c7d54e86.chunk.css.map": "/arpt-svt/covid19/master/docs/static/css/main.c7d54e86.chunk.css.map",
+    "static/js/2.27c5f482.chunk.js.LICENSE.txt": "/arpt-svt/covid19/master/docs/static/js/2.27c5f482.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57e2bb12.js",
+    "static/js/2.27c5f482.chunk.js",
+    "static/css/main.c7d54e86.chunk.css",
+    "static/js/main.0f65196f.chunk.js"
+  ]
+}
