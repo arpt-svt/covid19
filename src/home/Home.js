@@ -101,7 +101,7 @@ function Home() {
 
             ws.TotalConfirmed += country.TotalConfirmed
             ws.TotalRecovered += country.TotalRecovered
-            ws.TotalDeaths += country.TotalRecovered
+            ws.TotalDeaths += country.TotalDeaths
             ws.NewConfirmed += country.NewConfirmed
             ws.NewRecovered += country.NewRecovered
             ws.NewDeaths += country.NewDeaths
