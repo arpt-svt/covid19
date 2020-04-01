@@ -1,0 +1,26 @@
+{
+    "short_name": "Covid19",
+    "name": "Covid-19 Tracker",
+    "icons": [
+      {
+        "src": "favicon.ico",
+        "sizes": "http://netmusk.com/images/Favicon/favicon.png",
+        "type": "image/x-icon"
+      },
+      {
+        "src": "http://netmusk.com/images/Favicon/favicon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "http://netmusk.com/images/Favicon/favicon.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
+  
