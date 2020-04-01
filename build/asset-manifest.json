@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "https://arpt-svt.github.io/covid19/static/css/main.c7d54e86.chunk.css",
-    "main.js": "https://arpt-svt.github.io/covid19/static/js/main.821129ae.chunk.js",
-    "main.js.map": "https://arpt-svt.github.io/covid19/static/js/main.821129ae.chunk.js.map",
+    "main.js": "https://arpt-svt.github.io/covid19/static/js/main.44c31c0e.chunk.js",
+    "main.js.map": "https://arpt-svt.github.io/covid19/static/js/main.44c31c0e.chunk.js.map",
     "runtime-main.js": "https://arpt-svt.github.io/covid19/static/js/runtime-main.878627fa.js",
     "runtime-main.js.map": "https://arpt-svt.github.io/covid19/static/js/runtime-main.878627fa.js.map",
-    "static/js/2.9c863cfa.chunk.js": "https://arpt-svt.github.io/covid19/static/js/2.9c863cfa.chunk.js",
-    "static/js/2.9c863cfa.chunk.js.map": "https://arpt-svt.github.io/covid19/static/js/2.9c863cfa.chunk.js.map",
+    "static/js/2.937d79a9.chunk.js": "https://arpt-svt.github.io/covid19/static/js/2.937d79a9.chunk.js",
+    "static/js/2.937d79a9.chunk.js.map": "https://arpt-svt.github.io/covid19/static/js/2.937d79a9.chunk.js.map",
     "index.html": "https://arpt-svt.github.io/covid19/index.html",
-    "precache-manifest.97d733b36c041e14003b799d8da078ab.js": "https://arpt-svt.github.io/covid19/precache-manifest.97d733b36c041e14003b799d8da078ab.js",
+    "precache-manifest.d0ac5ee53f4a6b443fc221029a5750a6.js": "https://arpt-svt.github.io/covid19/precache-manifest.d0ac5ee53f4a6b443fc221029a5750a6.js",
     "service-worker.js": "https://arpt-svt.github.io/covid19/service-worker.js",
     "static/css/main.c7d54e86.chunk.css.map": "https://arpt-svt.github.io/covid19/static/css/main.c7d54e86.chunk.css.map",
-    "static/js/2.9c863cfa.chunk.js.LICENSE.txt": "https://arpt-svt.github.io/covid19/static/js/2.9c863cfa.chunk.js.LICENSE.txt"
+    "static/js/2.937d79a9.chunk.js.LICENSE.txt": "https://arpt-svt.github.io/covid19/static/js/2.937d79a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.878627fa.js",
-    "static/js/2.9c863cfa.chunk.js",
+    "static/js/2.937d79a9.chunk.js",
     "static/css/main.c7d54e86.chunk.css",
-    "static/js/main.821129ae.chunk.js"
+    "static/js/main.44c31c0e.chunk.js"
   ]
 }

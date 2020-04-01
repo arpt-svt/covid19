@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import { Spinner } from "baseui/spinner";
+import { StyledSpinnerNext } from "baseui/spinner";
 import * as timeago from 'timeago.js';
+import logo from './../NM_logo.png';
 
 
 
@@ -110,6 +111,7 @@ function Home() {
               data: country
             })
           }
+          countries.sort((a, b) => (a.data.TotalConfirmed < b.data.TotalConfirmed) ? 1 : -1)
           let lu = timeago.format(result.Date)
           setLastUpdated(lu)
           setWorldCases(ws)
@@ -128,7 +130,7 @@ function Home() {
   let worldDisplay = ''
   let tableDisplay = (
   <div className={css({ justifyContent: 'center', display: 'flex', marginTop: '30vh'})}>
-    <Spinner size="100px"/></div>);
+    <StyledSpinnerNext size="100px"/></div>);
 
   if (worldCases.TotalConfirmed){
     worldDisplay = (
@@ -195,7 +197,7 @@ function Home() {
       <HeaderNavigation>
         <StyledNavigationList $align={ALIGN.center}>
         <StyledNavigationItem>
-        <img src="http://netmusk.com/images/Favicon/favicon.png" height="32px" width="32px"/>
+        <img src={logo} height="32px"/>
           </StyledNavigationItem>
           <StyledNavigationItem style={{paddingLeft: '10px'}}>
           <StyledLink
