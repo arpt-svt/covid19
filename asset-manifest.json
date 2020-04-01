@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://arpt-svt.github.io/covid19/static/css/main.c7d54e86.chunk.css",
-    "main.js": "https://arpt-svt.github.io/covid19/static/js/main.44c31c0e.chunk.js",
-    "main.js.map": "https://arpt-svt.github.io/covid19/static/js/main.44c31c0e.chunk.js.map",
-    "runtime-main.js": "https://arpt-svt.github.io/covid19/static/js/runtime-main.878627fa.js",
-    "runtime-main.js.map": "https://arpt-svt.github.io/covid19/static/js/runtime-main.878627fa.js.map",
-    "static/js/2.937d79a9.chunk.js": "https://arpt-svt.github.io/covid19/static/js/2.937d79a9.chunk.js",
-    "static/js/2.937d79a9.chunk.js.map": "https://arpt-svt.github.io/covid19/static/js/2.937d79a9.chunk.js.map",
-    "index.html": "https://arpt-svt.github.io/covid19/index.html",
-    "precache-manifest.d0ac5ee53f4a6b443fc221029a5750a6.js": "https://arpt-svt.github.io/covid19/precache-manifest.d0ac5ee53f4a6b443fc221029a5750a6.js",
-    "service-worker.js": "https://arpt-svt.github.io/covid19/service-worker.js",
-    "static/css/main.c7d54e86.chunk.css.map": "https://arpt-svt.github.io/covid19/static/css/main.c7d54e86.chunk.css.map",
-    "static/js/2.937d79a9.chunk.js.LICENSE.txt": "https://arpt-svt.github.io/covid19/static/js/2.937d79a9.chunk.js.LICENSE.txt"
+    "main.css": "/covid19/static/css/main.c7d54e86.chunk.css",
+    "main.js": "/covid19/static/js/main.9609ec13.chunk.js",
+    "main.js.map": "/covid19/static/js/main.9609ec13.chunk.js.map",
+    "runtime-main.js": "/covid19/static/js/runtime-main.106e91a2.js",
+    "runtime-main.js.map": "/covid19/static/js/runtime-main.106e91a2.js.map",
+    "static/js/2.937d79a9.chunk.js": "/covid19/static/js/2.937d79a9.chunk.js",
+    "static/js/2.937d79a9.chunk.js.map": "/covid19/static/js/2.937d79a9.chunk.js.map",
+    "index.html": "/covid19/index.html",
+    "precache-manifest.c9408b1b31bdda8cc1d9e39bb83f40c2.js": "/covid19/precache-manifest.c9408b1b31bdda8cc1d9e39bb83f40c2.js",
+    "service-worker.js": "/covid19/service-worker.js",
+    "static/css/main.c7d54e86.chunk.css.map": "/covid19/static/css/main.c7d54e86.chunk.css.map",
+    "static/js/2.937d79a9.chunk.js.LICENSE.txt": "/covid19/static/js/2.937d79a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.878627fa.js",
+    "static/js/runtime-main.106e91a2.js",
     "static/js/2.937d79a9.chunk.js",
     "static/css/main.c7d54e86.chunk.css",
-    "static/js/main.44c31c0e.chunk.js"
+    "static/js/main.9609ec13.chunk.js"
   ]
 }
